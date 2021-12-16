@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/ReactQuotesChallenge/static/css/main.fd1b70bc.css",
+    "main.js": "/ReactQuotesChallenge/static/js/main.f94f9504.js",
+    "static/js/787.1d3858f6.chunk.js": "/ReactQuotesChallenge/static/js/787.1d3858f6.chunk.js",
+    "index.html": "/ReactQuotesChallenge/index.html",
+    "main.fd1b70bc.css.map": "/ReactQuotesChallenge/static/css/main.fd1b70bc.css.map",
+    "main.f94f9504.js.map": "/ReactQuotesChallenge/static/js/main.f94f9504.js.map",
+    "787.1d3858f6.chunk.js.map": "/ReactQuotesChallenge/static/js/787.1d3858f6.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fd1b70bc.css",
+    "static/js/main.f94f9504.js"
+  ]
+}
